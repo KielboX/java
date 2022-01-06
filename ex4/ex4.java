@@ -6,7 +6,7 @@ public class ex4
         {
             if(a[i] < 0)        //se è negativo salta un ciclo
                 continue;
-            if(i == a.length() - 1)  //se è arrivato all'ultimo 
+            if(i == a.length - 1)  //se è arrivato all'ultimo 
                 break;             //ferma il ciclo
 
             for(int j = 1; j <= n; j++)

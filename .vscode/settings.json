@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "methodMax",
+        "ex4",
+        "basicEx",
+        "HelloWorld",
+        "SortAndTest"
+    ]
+}
